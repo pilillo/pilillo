@@ -9,3 +9,5 @@ Data Operations, Machine Learning Operations, Distributed Systems, Dependable Co
 - [LinkedIn profile](http://it.linkedin.com/in/andreamonacchi)
 - [Personal page](http://monacchi.altervista.org/)
 
+## Metrics
+![Metrics](https://github.com/pilillo/pilillo/blob/main/github-metrics.svg)
