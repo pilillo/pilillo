@@ -1764,7 +1764,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pastas/pastas</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1806,7 +1806,7 @@
                                         </svg>
                                         <div class="name">
                                             <span>asafschers/goscore</span>
-                                            <span>starred 9 hours ago</span>
+                                            <span>starred 10 hours ago</span>
                                         </div>
                                     </div>
                                     <div class="field description">
@@ -1929,7 +1929,7 @@
                 </div>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 16 Dec 2021, 03:36:16 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
+                    <span>Last updated 16 Dec 2021, 04:22:37 (timezone Europe/Rome) with lowlighter/metrics@3.16.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
