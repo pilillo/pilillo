@@ -635,7 +635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google/uuid</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.</div>
@@ -685,7 +685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2022, 22:19:29 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 5 Jan 2022, 23:22:19 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
