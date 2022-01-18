@@ -476,7 +476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>streaming-with-flink/examples-scala</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stream Processing with Apache Flink - Scala Examples</div>
@@ -529,7 +529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jfkirk/tensorrec</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A TensorFlow recommendation algorithm and framework in Python.</div>
@@ -582,7 +582,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>metarank/lightgbm4j</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Java LightGBM binding</div>
@@ -635,7 +635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NicolasHug/Surprise</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python scikit for building and analyzing recommender systems</div>
@@ -685,7 +685,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jan 2022, 05:30:33 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 18 Jan 2022, 06:22:50 (timezone Europe/Rome) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
