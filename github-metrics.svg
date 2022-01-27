@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>remarkjs/react-markdown</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown component for React</div>
@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pytorch/fairseq</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iximiuz/client-go-examples</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Collection of mini-programs demonstrating Kubernetes client-go usage.</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>max-sixty/prql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">PRQL is a modern language for transforming data — a simpler and more powerful SQL</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 11:22:35 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 27 Jan 2022, 12:17:14 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
