@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nextzen/lrm-mapzen</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Support for Mapzen Turn-by-Turn routing in Leaflet Routing Machine</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gis-ops/docker-valhalla</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is our hyper-flexible Docker repository for the Valhalla routing engine</div>
@@ -680,7 +680,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Feb 2022, 12:17:43 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 2 Feb 2022, 13:32:56 (timezone Europe/Rome) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
