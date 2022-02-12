@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Workiva/go-datastructures</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of useful, performant, and threadsafe Go datastructures.</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2022, 17:29:22 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 12 Feb 2022, 18:18:57 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
