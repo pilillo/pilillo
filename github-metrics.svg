@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>AnthonyBloomer/tmdbv3api</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight Python library for The Movie Database (TMDb) API. The TMDb API is a resource for developers to integrate movie, TV show and cast data along with posters or movie fan art.</div>
@@ -674,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2022, 09:25:08 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 24 Feb 2022, 10:21:05 (timezone Europe/Rome) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
