@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rinx/alvd</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">alvd = A Lightweight Vald. A lightweight distributed vector search engine works without K8s.</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vdaas/vald</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vald.  A Highly Scalable Distributed Vector Search Engine</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 20:30:43 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 21:17:39 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
