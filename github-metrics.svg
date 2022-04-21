@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/google-research</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Research</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spotify/annoy</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 06:53:21 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 07:41:02 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
