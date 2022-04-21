@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ekzhu/lsh</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Locality Sensitive Hashing for Go (Multi-probe LSH, LSH Forest, basic LSH)</div>
@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rinx/alvd</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">alvd = A Lightweight Vald. A lightweight distributed vector search engine works without K8s.</div>
@@ -583,7 +583,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vdaas/vald</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vald.  A Highly Scalable Distributed Vector Search Engine</div>
@@ -636,7 +636,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>google-research/google-research</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Research</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Apr 2022, 18:36:51 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 21 Apr 2022, 19:30:28 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
