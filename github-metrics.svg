@@ -477,7 +477,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DataIntelligenceCrew/go-faiss</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Go bindings for Faiss</div>
@@ -530,7 +530,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ekzhu/lsh</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Locality Sensitive Hashing for Go (Multi-probe LSH, LSH Forest, basic LSH)</div>
@@ -686,7 +686,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Apr 2022, 14:43:55 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 22 Apr 2022, 15:40:11 (timezone Europe/Rome) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
