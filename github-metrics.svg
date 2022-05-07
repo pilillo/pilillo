@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>orlangure/gnomock</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test your code without writing mocks with ephemeral Docker containers 📦 Setup popular services with just a couple lines of code ⏱️ No bash, no yaml, only code 💻</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>qdrant/qdrant</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Qdrant - vector similarity search  engine with extended filtering support</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2022, 09:22:05 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 10:28:43 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
