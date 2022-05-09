@@ -472,7 +472,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vdaas/vald-client-python</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Python gRPC client library for Vald</div>
@@ -525,7 +525,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>erikbern/ann-benchmarks</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Benchmarks of approximate nearest neighbor libraries in Python</div>
@@ -578,7 +578,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vdaas/vald-client-go</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Go gRPC client library for Vald</div>
@@ -681,7 +681,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2022, 16:21:24 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 9 May 2022, 17:26:01 (timezone Europe/Rome) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
