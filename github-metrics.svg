@@ -464,7 +464,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA-Merlin/Merlin</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.</div>
@@ -517,7 +517,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asim/go-micro</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Go microservices framework</div>
@@ -673,7 +673,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Aug 2022, 21:18:52 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 3 Aug 2022, 22:25:01 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
