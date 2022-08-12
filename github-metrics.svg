@@ -565,7 +565,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>asim/go-micro</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Go microservices framework</div>
@@ -618,7 +618,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>data-max-hq/ab-testing-in-ml</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Jul 13 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deploy A/B testing infrastructure in a containerized microservice architecture for Machine Learning applications.</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Aug 2022, 23:20:57 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 13 Aug 2022, 00:24:11 (timezone Europe/Rome) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
