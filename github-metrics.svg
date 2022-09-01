@@ -518,7 +518,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NVIDIA-Merlin/Merlin</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NVIDIA Merlin is an open source library providing end-to-end GPU-accelerated recommender systems, from feature engineering and preprocessing to training deep learning models and running inference in production.</div>
@@ -674,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Sept 2022, 12:27:01 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 1 Sept 2022, 13:20:45 (timezone Europe/Rome) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
