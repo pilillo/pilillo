@@ -624,7 +624,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nmslib/hnswlib</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Header-only C++/python library for fast approximate nearest neighbors</div>
@@ -674,7 +674,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Oct 2022, 16:28:37 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 8 Oct 2022, 17:28:22 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
