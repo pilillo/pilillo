@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>reugn/go-streams</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight stream processing library for Go</div>
@@ -669,7 +669,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Oct 2022, 15:45:09 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 16 Oct 2022, 16:26:36 (timezone Europe/Rome) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
