@@ -219,14 +219,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="160.3471804298596" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="160.3471804298596" y="0" width="137.4854835879684" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="297.832664017828" y="0" width="44.578347629737614" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="342.4110116475656" y="0" width="44.51875695894082" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="386.9297686065064" y="0" width="24.4412267741507" height="8" fill="#e5cd45"/>
-                    <rect mask="url(#languages-bar)" x="411.37099538065706" y="0" width="19.747141402397727" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="431.1181367830548" y="0" width="15.0130774793507" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="446.13121426240554" y="0" width="13.868785737594433" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="159.1402420368068" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="159.1402420368068" y="0" width="136.45062592358718" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="295.590867960394" y="0" width="47.705239790903114" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="343.29610775129714" y="0" width="44.18366284103559" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="387.4797705923327" y="0" width="24.257256872790713" height="8" fill="#e5cd45"/>
+                    <rect mask="url(#languages-bar)" x="411.73702746512345" y="0" width="19.598504032861804" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="431.3355314979852" y="0" width="14.900073561482426" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="446.2356050594676" y="0" width="13.764394940532377" height="8" fill="#ededed"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -411,13 +411,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 1 commit)</small>
+                    <small class="h-details">(computed from last 3 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 33.4 characters per line of code written</li>
-                        <li>Mostly pushes code around 18:00</li>
+                        <li>Has approximately 31.9 characters per line of code written</li>
+                        <li>Mostly pushes code around 10:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
                 </div>
@@ -673,7 +673,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2023, 09:26:03 (timezone Europe/Rome) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 5 Jan 2023, 10:19:55 (timezone Europe/Rome) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
