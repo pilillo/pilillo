@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LxMLS/lxmls-toolkit</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Machine Learning applied to Natural Language Processing Toolkit used in the Lisbon Machine Learning Summer School</div>
@@ -662,7 +662,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Jul 2023, 20:24:22 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 Jul 2023, 21:15:57 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
