@@ -465,7 +465,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>deezer/semi_perso_user_cold_start</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Source code from the KDD 2021 article "A Semi-Personalized System for User Cold Start Recommendation on Music Streaming Apps" by L. Briand, G. Salha-Galvan, W. Bendada, M. Morlon and V.A. Tran</div>
@@ -668,7 +668,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2023, 23:15:35 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Sept 2023, 00:16:16 (timezone Europe/Rome) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
