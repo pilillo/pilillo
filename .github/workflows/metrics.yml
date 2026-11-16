@@ -1,52 +1,82 @@
 # Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  # Every 6 hours is plenty for a profile card (and keeps commit noise down)
+  schedule: [{cron: "0 */6 * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
+    paths: [".github/workflows/metrics.yml"]
+
+concurrency:
+  group: metrics
+  cancel-in-progress: true
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          # Your GitHub token
+      # First attempt. Pulling the prebuilt image from ghcr.io occasionally fails
+      # with a network reset, and the action's fallback local build is broken
+      # upstream, so we simply try again instead of failing the run.
+      - name: Generate metrics
+        id: metrics
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with: &metrics_opts
           token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
           user: pilillo
           template: classic
           base: header, activity, community, repositories, metadata
+          repositories_affiliations: owner
+          repositories_batch: 100
           config_timezone: Europe/Rome
-          plugin_habits: yes
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
+          config_display: large
+          config_octicon: yes
+          config_twemoji: yes
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Languages
           plugin_languages: yes
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_ignored: JavaScript, Jupyter Notebook, CSS
-          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
+          plugin_languages_recent_days: 30
           plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
+          plugin_languages_colors: github
+          plugin_languages_ignored: JavaScript, Jupyter Notebook, CSS, HTML
+          plugin_languages_limit: 8
           plugin_languages_threshold: 0%
-          plugin_music: yes
-          plugin_music_limit: 4
-          plugin_music_provider: lastfm
-          plugin_music_user: pilillo
-          plugin_projects: yes
-          plugin_projects_limit: 4
+          plugin_languages_details: percentage
+
+          # Featured repositories
           plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_repositories_featured: pilillo/igovium, pilillo/gilberto
+
+          # Stars & topics
           plugin_stars: yes
           plugin_stars_limit: 4
           plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
+          plugin_topics_limit: 15
+
+          # Achievements
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+
+      - name: Wait before retry
+        if: steps.metrics.outcome == 'failure'
+        run: sleep 60
+
+      - name: Generate metrics (retry)
+        if: steps.metrics.outcome == 'failure'
+        uses: lowlighter/metrics@latest
+        with: *metrics_opts

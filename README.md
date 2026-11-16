@@ -1,13 +1,16 @@
-### About me
+<h2 align="center">Hi there, I'm Andrea aka <a href="http://monacchi.altervista.org/">pilillo</a> 👋</h2>
 
-Hi there, I am Andrea aka [pilillo](http://monacchi.altervista.org/) 👋
+<p align="center">
+  <a href="http://it.linkedin.com/in/andreamonacchi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-andreamonacchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://monacchi.altervista.org/"><img alt="Website" src="https://img.shields.io/badge/Website-monacchi.altervista.org-24292e?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
 
-## 🔭 Interests
-Data Operations, Machine Learning Operations, Distributed Systems, Dependable Computing, Multi-agent systems, Smart Microgrids, Demand Response
+### 🔭 Interests
 
-## 📫 Contacts
-- [LinkedIn profile](http://it.linkedin.com/in/andreamonacchi)
-- [Personal page](http://monacchi.altervista.org/)
+`Data Operations` · `MLOps` · `Distributed Systems` · `Dependable Computing` · `Multi-agent Systems` · `Smart Microgrids` · `Demand Response`
 
-## Metrics
-![Metrics](https://github.com/pilillo/pilillo/blob/main/github-metrics.svg)
+### 📊 Metrics
+
+<p align="center">
+  <img alt="GitHub metrics" src="github-metrics.svg">
+</p>
