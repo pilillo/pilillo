@@ -63,12 +63,6 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_limit: 15
 
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-          plugin_achievements_secrets: yes
-
       - name: Wait before retry
         if: steps.metrics.outcome == 'failure'
         run: sleep 60
